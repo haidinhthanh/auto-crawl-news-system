@@ -1,4 +1,4 @@
-numpy==1.17.4
+numpy==1.22.0
 Scrapy==1.8.0
 beautifulsoup4==4.8.1
 elasticsearch==7.1.0
